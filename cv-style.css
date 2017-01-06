@@ -984,11 +984,11 @@
 
 #ARTICLE_100 {
     color: rgb(51, 51, 51);
-    height: 298px;
+    height: 250px;
     text-size-adjust: 100%;
     width: 700px;
     column-rule-color: rgb(51, 51, 51);
-    perspective-origin: 350px 169.5px;
+    perspective-origin: 320px 169.5px;
     transform-origin: 350px 169.5px;
     border-top: 0px none rgb(51, 51, 51);
     border-right: 0px none rgb(51, 51, 51);
