@@ -78,9 +78,26 @@ $ git remote remove <nombre>
 
 En general, el nombre del repositorio remoto es: origin
 
+### $ git pull
+Este comando nos permite recibir el último estado registrado del repositorio remoto.
+- recibe como argumentos el nombre del remoto y el branch que queremos hacer pull.
+
+### $git push
+Este comando nos permite mandar los cambios registrados de nuestro repositorio local a un repositorio remoto.
+- Recibe como argumentos el nombre del remoto y del branch al que queremos hacer push.
 
 
+### Fork
+Github ofrece una opción que nos permite copiar el repositorio de algún otro usuario y hacerlo nuestro.
 
+### Pull Request
+- Este método pemite a los equipos de desarrollo controlar que cambios se realizan en un repositorio.
+- El propietario del repositorio recibe peticiones de cambio, las cuales deben ser aprobadas por él.
+- Típicamente un colaborador hace fork del proyecto maestro, y al realizar sus cambios realiza el pull request.
+- También es posible hacer pull request entre ramas.
+
+### Issues
+Github ofrece la capacidad de crear entradas en nuestro repositorio, las cuales pueden ser usadas para especificar varias cosas, desde mejoras al sistema, problemas a resolver o nuevas ideas a implementar.
 
 
 
